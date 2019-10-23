@@ -1,4 +1,4 @@
-package it.nplace.downloadspathproviderexample;
+package it.nplace.downloads_path_provider_example;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
